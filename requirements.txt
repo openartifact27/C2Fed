@@ -1,0 +1,9 @@
+datasets
+einops
+enlighten
+ml-collections
+numpy
+pandas
+scikit-learn
+tensorboard
+transformers
